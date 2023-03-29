@@ -1,6 +1,6 @@
 # Object Oriented Programming Note #1
 
-Object Oriented Programming is awesome :D
+Object Oriented Programming is awesome!
 
 '''python
 
@@ -13,3 +13,7 @@ class Person:
         return f"Person Object called: {self.name}"
 
 '''
+
+## More Notes!
+- '''class''' is a keyword in Python to create a class
+- ''__init__()''' is a base override
